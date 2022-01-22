@@ -6,5 +6,6 @@ Ex: caesar_cipher("A", 3) = "D".
 Ex: dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]  
 substrings("below", dictionary) => {"below"=>1, "low"=>1}  
 3. Stock Picker: Takes in an array of stock prices, return a pair of days representing the best day to buy and the best day to sell. Days start at 0.  
-Ex: stock_picker([17,3,6,9,15,8,6,1,10]) => [1, 4]
+Ex: stock_picker([17,3,6,9,15,8,6,1,10]) => [1, 4]  
+4. Bubble Sort: Takes an array and returns a sorted array
 
