@@ -22,6 +22,7 @@ end
 
 # Example
 puts caesar_cipher("What a string!", 5)
+puts caesar_cipher("A", 3)
 
 
 
