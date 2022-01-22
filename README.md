@@ -7,5 +7,6 @@ Ex: dictionary = ["below","down","go","going","horn","how","howdy","it","i","low
 substrings("below", dictionary) => {"below"=>1, "low"=>1}  
 3. Stock Picker: Takes in an array of stock prices, return a pair of days representing the best day to buy and the best day to sell. Days start at 0.  
 Ex: stock_picker([17,3,6,9,15,8,6,1,10]) => [1, 4]  
-4. Bubble Sort: Takes an array and returns a sorted array
+4. Bubble Sort: Takes an array and returns a sorted array.  
+Ex: array = [9,5,5,3,2,1,0] => array = [0,1,2,3,5,5,9]
 
