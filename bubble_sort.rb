@@ -13,6 +13,6 @@ def bubble_sort(arr)
   arr
 end
 
-
+# Result
 array = [9,5,5,3,2,1,0]
 p bubble_sort(array)
